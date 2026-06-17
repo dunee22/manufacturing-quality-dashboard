@@ -1,0 +1,5 @@
+line_name,total_produced_units,total_defective_units,total_downtime_minutes,defect_rate_percent
+Line 4,53373,3331,3810,6.24
+Line 2,78097,3918,3304,5.02
+Line 3,69939,2767,5002,3.96
+Line 1,93754,2651,2519,2.83

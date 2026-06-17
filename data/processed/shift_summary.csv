@@ -1,0 +1,4 @@
+shift_name,total_produced_units,total_defective_units,total_downtime_minutes,defect_rate_percent
+Night,89085,4678,5845,5.25
+Afternoon,99237,4237,4641,4.27
+Morning,106841,3752,4149,3.51

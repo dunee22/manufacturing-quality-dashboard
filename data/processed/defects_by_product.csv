@@ -1,0 +1,13 @@
+product_name,defect_name,total_defect_units
+Washing Machine Control Board,Defective soldering,1999
+Refrigerator Control Board,Programming error,1977
+Refrigerator Control Board,Defective soldering,1417
+Oven Control Board,Defective soldering,1167
+Oven Control Board,Physical damage,1004
+Washing Machine Control Board,Missing component,983
+Refrigerator Control Board,Missing component,962
+Washing Machine Control Board,Programming error,777
+Refrigerator Control Board,Physical damage,703
+Oven Control Board,Missing component,660
+Oven Control Board,Programming error,660
+Washing Machine Control Board,Physical damage,358

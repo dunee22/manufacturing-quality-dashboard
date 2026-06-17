@@ -1,0 +1,4 @@
+product_name,appliance_type,total_produced_units,total_defective_units,total_downtime_minutes,defect_rate_percent
+Refrigerator Control Board,Refrigerator,109747,5059,5308,4.61
+Oven Control Board,Oven,82951,3491,4034,4.21
+Washing Machine Control Board,Washing Machine,102465,4117,5293,4.02
