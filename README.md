@@ -76,6 +76,12 @@ It includes:
 | Total downtime minutes   |  14,635 |
 | Total production records |     338 |
 
+## Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize the main manufacturing quality KPIs and insights.
+
+![Power BI Dashboard Overview](images/powerbi_dashboard_overview.png)
+
 ## Key Findings
 
 ### Production Line Performance
@@ -149,6 +155,8 @@ manufacturing-quality-dashboard/
 ├── images/
 ├── notebooks/
 │   └── eda_manufacturing.ipynb
+├── powerbi/
+│   └── manufacturing_quality_dashboard.pbix
 ├── scripts/
 │   └── generate_sample_data.py
 ├── sql/
